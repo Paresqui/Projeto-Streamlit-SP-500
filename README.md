@@ -1,1 +1,1 @@
-# Streamlit_S-P-500-companies
+# Aplicativo Web para consulta do índice S&P 500 utilizando Streamlit
