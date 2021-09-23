@@ -79,7 +79,7 @@ st.plotly_chart(rsi_graf)
 
 #Open Close - Spread Chart
 st.header('**Gráfico de Open - Close Spread **')
-rsi_graf = tickerDf[['Open','Close']].iplot(kind='spread',title='Relative Strength Index', asFigure=True)
+rsi_graf = tickerDf[['Open','Close']].iplot(kind='spread',title='Open-close Spread Chart', asFigure=True)
 st.plotly_chart(rsi_graf)
 
 #RSI
