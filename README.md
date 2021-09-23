@@ -12,6 +12,7 @@
 
 Nesse projeto foram utilizados  os módulos streamlit, pandas, yfinance, cufflinks, plotly e datetime. 
 
+<p align="center"><img src="./app_gif.gif" width="800" height="450"></p>
 
 ## Acesse o app
 https://share.streamlit.io/paresqui/projeto-streamlit-sp-500/main/Projeto_Streamlit_SP500.py
